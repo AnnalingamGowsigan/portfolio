@@ -7,7 +7,6 @@ const Header = () => {
     <header className="header">
         <nav className="nav container">
             <a href="index.html" className="nav__logo">Gowsi</a>
-
             <div className="nav__menu">
                 <ul className="nav__list grid">
                     <li className="nav__item">
