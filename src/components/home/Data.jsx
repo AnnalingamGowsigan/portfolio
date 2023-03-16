@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Annalingam Gowsigan
+        A. Gowsigan
         <svg
           width="36"
           height="36"
@@ -55,6 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
+      
       <h3 className="home__subtitle">Computer Engineer</h3>
       <p className="home__description">
         I'm creative Engineer based in Sri Lank, and I'm very passionate and
