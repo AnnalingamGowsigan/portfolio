@@ -10,18 +10,19 @@ import Testimonials from "./components/testimonials/Testimonials.jsx";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollup/ScrollUp";
+import Work from "./components/work/Work.jsx";
 
 const App = () => {
   return (
     <>
       <Header />
-
       <main className="main">
         <Home />
         <About />
         <Skills />
         <Services />
         <Qualification />
+        <Work />
         <Testimonials />
         <Contact />
       </main>
