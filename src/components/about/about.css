@@ -40,8 +40,9 @@
 }
 
 .about__description {
-  padding: 0 4rem 0 0;
+  padding: 0 0 0 0;
   margin-bottom: var(--mb-2-5);
+  text-align: justify;
 }
 
 /*========== BREAKPOINTS ==========*/
@@ -71,6 +72,7 @@
   .about__description {
     padding: 0 5rem;
     margin-bottom: 2rem;
+    text-align: center;
   }
 }
 
@@ -81,6 +83,7 @@
   }
   .about__description {
     padding: 0;
+    text-align: center;
   }
 }
 
