@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio-website",
+  "name": "portfolio-website",
   "version": "0.1.0",
-  "homepage": "https://AnnalingamGowsigan.github.io/react-portfolio-website",
+  "homepage": "https://AnnalingamGowsigan.github.io/portfolio-website",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
