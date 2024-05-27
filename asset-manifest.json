@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e9c79065.css",
-    "main.js": "/portfolio/static/js/main.7d42f700.js",
+    "main.css": "/portfolio/static/css/main.feab3fc2.css",
+    "main.js": "/portfolio/static/js/main.9ae0ce5e.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.770616f9ac7377e44d16.jpg",
     "static/media/about.jpg": "/portfolio/static/media/about.c868bcf69403882b8ba2.jpg",
     "static/media/testimonial3.png": "/portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
@@ -14,11 +14,11 @@
     "static/media/testimonial1.png": "/portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "static/media/Gowsi-Cv.pdf": "/portfolio/static/media/Gowsi-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/portfolio/index.html",
-    "main.e9c79065.css.map": "/portfolio/static/css/main.e9c79065.css.map",
-    "main.7d42f700.js.map": "/portfolio/static/js/main.7d42f700.js.map"
+    "main.feab3fc2.css.map": "/portfolio/static/css/main.feab3fc2.css.map",
+    "main.9ae0ce5e.js.map": "/portfolio/static/js/main.9ae0ce5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9c79065.css",
-    "static/js/main.7d42f700.js"
+    "static/css/main.feab3fc2.css",
+    "static/js/main.9ae0ce5e.js"
   ]
 }
