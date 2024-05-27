@@ -7,6 +7,7 @@ const Social = () => {
         href="https://github.com/AnnalingamGowsigan"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-github"></i>
       </a>
@@ -14,10 +15,16 @@ const Social = () => {
         href="https://www.linkedin.com/in/annalingam-gowsigan-87a3991b4/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-linkedin"></i>
       </a>
-      <a href="#" className="home__social-icon" target="_blank">
+      <a
+        href="https://people.ce.pdn.ac.lk/students/e18/115/"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
         <i class="uil uil-dribbble"></i>
       </a>
     </div>
